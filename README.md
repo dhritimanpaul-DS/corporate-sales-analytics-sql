@@ -28,7 +28,8 @@ This analysis answers questions such as:
 *   How efficient are shipping operations across different markets? 
 *   How has sales performance changed over time? 
 *   Which customers rank highest within each market? 
-*   How has the business grown year over year? 
+*   How has the business grown year over year?
+*   Do higher discount rates improve overall profitability or negatively compress business margins?
 
 ---
 
@@ -41,7 +42,8 @@ This analysis answers questions such as:
 ### SQL Concepts
 *   Joins 
 *   CTEs 
-*   Window Functions 
+*   Window Functions
+*   Rank Funtions
 *   Aggregate Functions 
 *   Subqueries 
 *   Primary & Foreign Keys 
@@ -51,7 +53,7 @@ This analysis answers questions such as:
 ---
 
 ## Database Schema
-The original flat dataset was normalized into four related tables:
+The original flat dataset was normalized into a **Star Schema**:
 *   Customers 
 *   Products 
 *   Locations 
