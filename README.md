@@ -2,12 +2,12 @@
 ## Corporate Sales Analytics using SQL Server
 
 ---
-
-*   ü Normalized a 50K+ row sales dataset into a relational database
-*   ü Built 4 relational tables with primary and foreign keys
-*   ü Solved 10 real-world business problems using SQL
-*   ü Applied CTEs, Window Functions, Joins, Subqueries and Indexing
-*   ü Generated actionable business insights for decision-making
+## Project Highlights
+*   ✔ Normalized a 50K+ row sales dataset into a relational database
+*   ✔ Built 4 relational tables with Primary and Foreign Keys
+*   ✔ Solved 10 real-world business problems using SQL
+*   ✔ Applied CTEs, Window Functions, Joins, Subqueries, and Indexing
+*   ✔ Generated actionable business insights to support business decision-making
 
 ---
 
